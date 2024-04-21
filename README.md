@@ -13,6 +13,22 @@
 
 ---
 
+## 📝 프로젝트에 기여한 부분
+- Spring을 활용하여 Front & Back-End의 설계 및 구축
+  - Frontend 의 기본적인 틀 제공
+  - Backend 의 전체적인 설계 및 구현
+    - API 작업 ( 파일 업로드 및 전처리 API, DB 관리 Etc) 
+  - 데이터 베이스 관리
+    - Mysql을 활용한 데이터 베이스 관리 
+    - Mybatis, JDBC, JPA, Hibernate를 사용하여 구현
+       
+- Deep Learning을 활용한 악성 파일 탐지 모델 구현
+  - 파일의 바이너리 값을 이미지화
+  - 이미지 인식 모델로 악성 파일 분류
+  - 패킹 탐지 기술과 접목하여 정확도 향상
+
+---
+
 ## 🔧 주요 기술
 
 <p align="center"><img src="https://github.com/kookmin-sw/capstone-2023-21/assets/39542937/3dab7f3a-cf5b-4200-adbc-e1109c1e06b6"></p>
